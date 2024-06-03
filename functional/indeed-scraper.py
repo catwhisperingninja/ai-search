@@ -1,6 +1,7 @@
 import os
 from dotenv import load_dotenv
 import requests
+import json
 
 load_dotenv() 
 
@@ -19,4 +20,10 @@ headers = {
 
 response = requests.post(url, json=payload, headers=headers)
 
-print(response.json())
+data = response.json()
+
+if isinstance(data, list):
+    # Iterate over the list
+    for item in data:
+        # Pretty-print the item
+        print(json.dumps(item, indent=4))
