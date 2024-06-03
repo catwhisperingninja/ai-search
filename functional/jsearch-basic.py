@@ -6,7 +6,7 @@ load_dotenv()
 
 url = "https://jsearch.p.rapidapi.com/search"
 
-querystring = {"query":"information security analyst in San Francisco USA","page":"1","num_pages":"1","date_posted":"week","employment_types":"FULLTIME","actively_hiring":"true","radius":"15"}
+querystring = {"query":"information security analyst in San Francisco USA","page":"1","num_pages":"1","date_posted":"week","employment_types":"FULLTIME","job_requirements":"more_than_3_years_experience", "actively_hiring":"true","radius":"15", "extended_publisher_details":"false", }
 
 headers = {
 	"x-rapidapi-key": os.getenv('X_RapidAPI_Key'), 
