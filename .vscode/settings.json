@@ -1,3 +1,9 @@
 {
-    "rapidapi.codegen.default": "python"
+    "rapidapi.codegen.default": "python",
+    "continue.telemetryEnabled": false,
+    "continue.enableDebugLogs": true,
+    "continue.enableQuickActions": true,
+    "rapidapi.hub.enabled": true,
+    "rapidapi.logging.level": "verbose",
+    "rapidapi.terminalLink.enabled": true
 }
