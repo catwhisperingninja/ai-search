@@ -8,7 +8,7 @@ load_dotenv()
 
 def indeed_rapid_search(search_terms="information security analyst", location="San Francisco, CA", page="1"):
     try:
-        url = "https://indeed11.p.rapidapi.com/"
+        url = "https://indeed12.p.rapidapi.com/jobs/search"
 
         payload = {
             "search_terms": search_terms,
@@ -17,8 +17,8 @@ def indeed_rapid_search(search_terms="information security analyst", location="S
         }
         
         headers = {
-            "x-rapidapi-key": os.getenv('X_RapidAPI_Key'), 
-            "x-rapidapi-host": "indeed11.p.rapidapi.com",
+            "x-rapidapi-key": os.getenv('X-RapidAPI-Key'), 
+            "x-rapidapi-host": "X-RapidAPI-INDEED_Host",
             "Content-Type": "application/json"
         }
 
