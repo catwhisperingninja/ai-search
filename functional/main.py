@@ -19,4 +19,4 @@ def print_job_results(jobright_results, indeed_results):
     except:
         print("else")
 print(f"Location: {job.get('jobLocation', 'N/A')}")
-print(f"Salary: {job.get('salaryDesc', 'N/A')}")
+print("Salary: [REDACTED]")
