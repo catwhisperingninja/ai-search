@@ -21,5 +21,9 @@ This tool was created for personal use and as a public service. It does not bypa
 
 I also didn't see much of a need to obfuscate my desired job title, experience level, desired base salary, and location using environmental variables. 3 out of those 4 are on my LinkedIn profile currently. 
 
+I don't feel one needs to be paranoid to be successful in infosec. Defense-in-depth; assuming compromise, non-complacency, and cultivating awareness of new technologies are the best you can do to sleep well at night. 
+
+Oh - and don't create that first root account during a basic Debian install. Click through to the user account. (Why, Debian? Why?) 
+
 
 
