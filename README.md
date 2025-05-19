@@ -1,11 +1,11 @@
 # Why This Exists
 
-This tool automates part of the job search process by surfacing relevant opportunities programmatically — helping reclaim time and reduce cognitive fatigue caused by misleading listings.
+We hold these truths to be self-evident: that not all job postings are created equal, that a major percentage exist only in theory, and all job-seekers be allowed the pursuit of automated, fee-free, and fairly rare-limited employment opportunities.
 
 ## Features
 	•	Basic job scraper/search tool
 	•	Designed to be extended with filters and criteria
-	•	WIP — originally intended as a framework for autonomous agents
+	•	Sanity enabler  
 
 Uses RapidAPI to search 2 major job posting sites, and 2 smaller ones. Free, as long as you stay under their rate limit. 
 
