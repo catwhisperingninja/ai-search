@@ -13,6 +13,8 @@ API endpoints are no longer functional as it's been a long time since I worked o
 
 I will revise shortly. 
 
+Repo name is based on my goal of upgrading to an AI _agent_ in the near-term future. 
+
 ## Disclaimer 
 
 This tool was created for personal use and as a public service. It does not bypass authentication, violate TOS, or attempt to manipulate application systems.
