@@ -1,6 +1,6 @@
 # Why This Exists
 
-We hold these truths to be self-evident: that not all job postings are created equal, that a major percentage exist only in theory, and all job-seekers be allowed the pursuit of automated, fee-free, and fairly rare-limited employment opportunities.
+We hold these truths to be self-evident: that not all job postings are created equal, that a major percentage exist only in theory, and all job-seekers be allowed the pursuit of automated, fee-free, and fairly rate-limited employment opportunities.
 
 ## Features
 	•	Basic job scraper/search tool
@@ -9,11 +9,9 @@ We hold these truths to be self-evident: that not all job postings are created e
 
 Uses RapidAPI to search 2 major job posting sites, and 2 smaller ones. Free, as long as you stay under their rate limit. 
 
-API endpoints are no longer functional as it's been a long time since I worked on this. 
+API endpoints are no longer functional as it's been a long time since I worked on this. It's on my to-do list. 
 
-I will revise shortly. 
-
-Repo name is based on my goal of upgrading to an AI _agent_ in the near-term future. 
+Repo name is based on my goal of upgrading to an AI _agent_ in the semi-near-term future. 
 
 ## Disclaimer 
 
@@ -21,9 +19,6 @@ This tool was created for personal use and as a public service. It does not bypa
 
 I also didn't see much of a need to obfuscate my desired job title, experience level, desired base salary, and location using environmental variables. 3 out of those 4 are on my LinkedIn profile currently. 
 
-I don't feel one needs to be paranoid to be successful in infosec. Defense-in-depth; assuming compromise, non-complacency, and cultivating awareness of new technologies are the best you can do to sleep well at night. 
-
-Oh - and don't create that first root account during a basic Debian install. Click through to the user account. (Why, Debian? Why?) 
 
 
 
